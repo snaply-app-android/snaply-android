@@ -1,0 +1,9 @@
+com.snaply.app.feature.onboarding-pngs-0 C:\Users\kheyla.t.paucara\AndroidStudioProjects\Snaply\feature\onboarding\build\generated\res\pngs\debug
+com.snaply.app.feature.onboarding-updated_navigation_xml-1 C:\Users\kheyla.t.paucara\AndroidStudioProjects\Snaply\feature\onboarding\build\generated\updated_navigation_xml\debug
+com.snaply.app.feature.onboarding-mergeDebugResources-2 C:\Users\kheyla.t.paucara\AndroidStudioProjects\Snaply\feature\onboarding\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.snaply.app.feature.onboarding-mergeDebugResources-3 C:\Users\kheyla.t.paucara\AndroidStudioProjects\Snaply\feature\onboarding\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.snaply.app.feature.onboarding-debug-4 C:\Users\kheyla.t.paucara\AndroidStudioProjects\Snaply\feature\onboarding\build\intermediates\merged_res\debug\mergeDebugResources
+com.snaply.app.feature.onboarding-debug-5 C:\Users\kheyla.t.paucara\AndroidStudioProjects\Snaply\feature\onboarding\build\intermediates\packaged_res\debug\packageDebugResources
+com.snaply.app.feature.onboarding-debug-6 C:\Users\kheyla.t.paucara\AndroidStudioProjects\Snaply\feature\onboarding\src\debug\res
+com.snaply.app.feature.onboarding-main-7 C:\Users\kheyla.t.paucara\AndroidStudioProjects\Snaply\feature\onboarding\src\main\res
+gradleHome-0 C:\Users\kheyla.t.paucara\.gradle

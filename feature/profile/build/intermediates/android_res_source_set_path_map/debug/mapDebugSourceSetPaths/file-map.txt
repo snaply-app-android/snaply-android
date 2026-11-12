@@ -1,0 +1,9 @@
+com.snaply.app.feature.profile-pngs-0 C:\Users\kheyla.t.paucara\AndroidStudioProjects\Snaply\feature\profile\build\generated\res\pngs\debug
+com.snaply.app.feature.profile-updated_navigation_xml-1 C:\Users\kheyla.t.paucara\AndroidStudioProjects\Snaply\feature\profile\build\generated\updated_navigation_xml\debug
+com.snaply.app.feature.profile-mergeDebugResources-2 C:\Users\kheyla.t.paucara\AndroidStudioProjects\Snaply\feature\profile\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.snaply.app.feature.profile-mergeDebugResources-3 C:\Users\kheyla.t.paucara\AndroidStudioProjects\Snaply\feature\profile\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.snaply.app.feature.profile-debug-4 C:\Users\kheyla.t.paucara\AndroidStudioProjects\Snaply\feature\profile\build\intermediates\merged_res\debug\mergeDebugResources
+com.snaply.app.feature.profile-debug-5 C:\Users\kheyla.t.paucara\AndroidStudioProjects\Snaply\feature\profile\build\intermediates\packaged_res\debug\packageDebugResources
+com.snaply.app.feature.profile-debug-6 C:\Users\kheyla.t.paucara\AndroidStudioProjects\Snaply\feature\profile\src\debug\res
+com.snaply.app.feature.profile-main-7 C:\Users\kheyla.t.paucara\AndroidStudioProjects\Snaply\feature\profile\src\main\res
+gradleHome-0 C:\Users\kheyla.t.paucara\.gradle
